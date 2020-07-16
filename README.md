@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <!--
-**codewithmd/codewithmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**codewithmd/codewithmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on React and NodeJS.
 - 🌱 I’m currently learning Data Structure.
