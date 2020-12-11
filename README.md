@@ -27,7 +27,7 @@ Know me more
   [<img align="center" alt="Facebook" width="22px" src="" />][facebook]
 </h3> -->
 <p align="center">
-  <a href="https://codewithmd.com/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/chocolatey.svg" alt="portfolio" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codewithmd.com/" target="blank"><img src="https://codewithmd.com/img/logo.png" alt="portfolio" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/codewithmd/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linked_in_profile" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:codewithmd@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" alt="g_mail_connect" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/codewithmd" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" alt="facebook_profile_link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
