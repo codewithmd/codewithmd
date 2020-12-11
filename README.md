@@ -33,9 +33,6 @@ Know me more
   <a href="https://www.facebook.com/codewithmd" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" alt="facebook_profile_link" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center">Stats</h2>
-<p align="center"> <img alt="MD's github stats" src="https://github-readme-stats.vercel.app/api?username=codewithmd&show_icons=true&theme=radical" /> </p>
-
 ## Language And Tools
 
 <p>
