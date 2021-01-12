@@ -12,7 +12,7 @@ I am open for opportunities as a **MERN** Stack Developer
 
 Know me more
 
-- 🔭 I’m currently working on: Logistics Application - **MERN Stack**
+- 🔭 I’m currently working on: Logistics Application - **MERN Stack** & Playing with **TypeScript**
 - 🌱 I’m currently learning: Advanced JavaScript Concepts
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
 - 🔗 2021 Goals: Spend more time to learn new stuffs
