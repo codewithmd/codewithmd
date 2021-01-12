@@ -12,8 +12,8 @@ I am open for opportunities as a **MERN** Stack Developer
 
 Know me more
 
-- 🔭 I’m currently working on: Logistics Application - **MERN Stack** & Playing with **TypeScript**
-- 🌱 I’m currently learning: Advanced JavaScript Concepts
+- 🔭 I’m currently working on: Logistics Application - **MERN Stack**
+- 🌱 I’m currently learning: Advanced JavaScript Concepts & TypeScript
 - 🧑‍💻 🧑‍💻 Strongly believes in Teamwork
 - 🔗 2021 Goals: Spend more time to learn new stuffs
 - ⚡ Fun fact: ... I learned DSA many times and try to practice it daily but always fails to execute it in front of seniors.
